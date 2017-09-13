@@ -1,0 +1,1 @@
+document.querySelector('link[rel="shortcut icon"]').setAttribute("href", "https://hue-storage.s3.amazonaws.com/jura.ico");
